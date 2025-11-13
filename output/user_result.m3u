@@ -589,4 +589,23 @@ http://116.28.124.155:5000/udp/239.77.0.225:5146
 http://183.30.201.107:10002/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="广东民生.png" group-title="📡本地频道",广东民生
 http://120.77.205.62:8087/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳频道",翡翠台
+http://cnlive.org/channel/n7549189d/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳频道",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳频道",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳频道",翡翠台
+https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳频道",翡翠台
+http://205.185.120.57:8081/channel/1dc3cdb9/index.m3u8
+
+
+
 
