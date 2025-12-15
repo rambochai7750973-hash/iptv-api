@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-15 18:20:47,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+2025-12-16 06:16:22,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
@@ -7,7 +7,6 @@ CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
 
 📡卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
