@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-11 18:29:57,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-04-12 06:26:25,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -8,6 +8,3 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?a
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 📡卫视频道,#genre#
-湖南卫视,https://v.iill.top/api/hnws/index.m3u8
-北京卫视,https://v.iill.top/api/bjws/index.m3u8
-四川卫视,https://v.iill.top/api/scws/index.m3u8
