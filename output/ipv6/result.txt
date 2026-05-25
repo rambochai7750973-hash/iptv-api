@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-24 06:46:18,https://xykt-fix.github.io/Y77.m3u8
+2026-05-25 21:06:05,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
-CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 📡卫视频道,#genre#
+广西卫视,http://a.xiongnas.top:8888/rtp/239.3.1.39:8300
+四川卫视,http://x1x.bid:5146/rtp/239.3.1.29:8288
+四川卫视,http://b.xiongnas.top:8888/rtp/239.3.1.29:8288
