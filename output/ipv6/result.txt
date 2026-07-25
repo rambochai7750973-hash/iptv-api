@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-24 06:50:59,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-07-25 19:05:08,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -7,4 +7,3 @@ CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u
 
 📡卫视频道,#genre#
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan4k
-四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan4k
