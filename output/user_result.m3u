@@ -1,20 +1,14 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rambochai7750973-hash/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-07-27 20:52:57
-http://204.12.221.218:8181/3m1080p/cctv3.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="📺央视频道",CCTV-3
-http://204.12.221.218:8181/3m1080p/cctv3.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="📺央视频道",CCTV-6
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-07-28 06:56:05
 http://www.negative.top:50000/rtp/233.50.200.109:5140
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="📺央视频道",CCTV-6
-http://121.19.134.22:808/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://www.negative.top:50000/rtp/233.50.200.109:5140
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="CCTV9.png" group-title="📺央视频道",CCTV-9
 http://198.204.228.26/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="CCTV10.png" group-title="📺央视频道",CCTV-10
 http://198.204.228.26/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="CCTV10.png" group-title="📺央视频道",CCTV-10
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="CCTV11.png" group-title="📺央视频道",CCTV-11
-http://121.19.134.253:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="CCTV12.png" group-title="📺央视频道",CCTV-12
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="📺央视频道",CCTV-13
@@ -61,5 +55,3 @@ http://198.204.228.26/live/sdwshd.m3u8
 http://121.19.134.22:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://121.19.134.22:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="新疆卫视.png" group-title="📡卫视频道",新疆卫视
-http://121.19.134.253:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
